@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'AMFont'; /* The name you'll use in Phaser */
+    src: url('./assets/fonts/AMFont.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'MiniConvenie'; /* The name you'll use in Phaser */
+    src: url('./assets/fonts/mini-convenie.otf') format('opentype');
+  }
+  
